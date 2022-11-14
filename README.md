@@ -12,5 +12,5 @@ seamless access.</div>
 
 ### Methodology
 1. [Set up the Google Vision API.](https://cloud.google.com/vision/docs/setup)
-2. After creating the JSON key file, set the environment variable as GOOGLE_APPLICATION_CREDENTIALS='/path_to_the_file/key.json'
-3. Run main.py using Python3.9
+2. After creating the JSON key file, set the environment variable as ```GOOGLE_APPLICATION_CREDENTIALS='/path_to_the_file/key.json'```
+3. Run ```main.py``` using Python3.9
