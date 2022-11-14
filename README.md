@@ -1,4 +1,4 @@
-# Optical Character Recgonition using GCP
+# Optical Character Recognition using GCP
 
 <div align="justify">Optical Character Recognition (OCR for short) is a technique that converts digital images of text into machine-readable data. OCR is the process of converting scanned images of machine printed or handwritten text (numerals, letters, and
 symbols), into machine readable character streams, plain (e.g. text files) or formatted (e.g. HTML files). OCR is a field of research in pattern recognition, artificial intelligence and computer vision. It is a common method of digitizing printed texts. <br>
