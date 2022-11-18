@@ -10,8 +10,6 @@ seamless access.</div>
 ### Block Diagram
 ![ocr-using-gcp architecture](https://cloud.google.com/static/functions/img/gcf-ocr.svg) <br>
 
-### Individual Modules
-
 ### Methodology
 1. [Set up the Google Vision API.](https://cloud.google.com/vision/docs/setup)
 2. After creating the JSON key file, set the environment variable as ```GOOGLE_APPLICATION_CREDENTIALS='/path_to_the_file/key.json'```
